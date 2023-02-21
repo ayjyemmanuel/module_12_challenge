@@ -9,7 +9,7 @@ In order to build each model, the raw data needed to split into training and tes
   * This model produced a balanced accuracy score of 95%.
   * Below is a sample of the confusion matrix results: 
   
-    ![Confusion Matrix](module_12_challenge/confusion_matrix_1.png)
+    ![Confusion Matrix](confusion_matrix_1.png)
 
   * Below is a sample of the classification report results: 
     
